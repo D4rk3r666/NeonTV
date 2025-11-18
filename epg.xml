@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="Sportv.br">
+    <display-name>SPORTV</display-name>
+  </channel>
+  <channel id="Sportv2.br">
+    <display-name>SPORTV 2</display-name>
+  </channel>
+  <channel id="Sportv3.br">
+    <display-name>SPORTV 3</display-name>
+  </channel>
+  <channel id="Espn.br">
+    <display-name>ESPN</display-name>
+  </channel>
+  <channel id="Espn2.br">
+    <display-name>ESPN 2</display-name>
+  </channel>
+  <channel id="Espn3.br">
+    <display-name>ESPN 3</display-name>
+  </channel>
+  <channel id="Espn4.br">
+    <display-name>ESPN 4</display-name>
+  </channel>
+  <channel id="Espn5.br">
+    <display-name>ESPN 5</display-name>
+  </channel>
+  <channel id="Espnextra.br">
+    <display-name>ESPN 6</display-name>
+  </channel>
+  <channel id="Xsports.br">
+    <display-name>XSPORTS</display-name>
+  </channel>
+  <channel id="Bandsports.br">
+    <display-name>BANDSPORTS</display-name>
+  </channel>
+  <channel id="SportTVPlus.pt">
+    <display-name>SPORT TV +</display-name>
+  </channel>
+  <channel id="SportTV1.pt">
+    <display-name>SPORT TV 1</display-name>
+  </channel>
+  <channel id="SportTV2.pt">
+    <display-name>SPORT TV 2</display-name>
+  </channel>
+  <channel id="sporttv3.pt">
+    <display-name>SPORT TV 3</display-name>
+  </channel>
+  <channel id="sporttv4.pt">
+    <display-name>SPORT TV 4</display-name>
+  </channel>
+  <channel id="sporttv5.pt">
+    <display-name>SPORT TV 5</display-name>
+  </channel>
+  <channel id="SportTV6.pt">
+    <display-name>SPORT TV 6</display-name>
+  </channel>
+  <channel id="sporttvnba.pt">
+    <display-name>SPORT TV NBA</display-name>
+  </channel>
+  <channel id="Combate.br">
+    <display-name>COMBATE</display-name>
+  </channel>
+  <channel id="Ufcfightpass.br">
+    <display-name>UFC FIGHT PASS</display-name>
+  </channel>
+  <channel id="Premiereclubes.br">
+    <display-name>PREMIERE CLUBES</display-name>
+  </channel>
+  <channel id="Premiere2.br">
+    <display-name>PREMIERE 2</display-name>
+  </channel>
+  <channel id="Premiere3.br">
+    <display-name>PREMIERE 3</display-name>
+  </channel>
+  <channel id="Premiere4.br">
+    <display-name>PREMIERE 4</display-name>
+  </channel>
+  <channel id="Premiere5.br">
+    <display-name>PREMIERE 5</display-name>
+  </channel>
+  <channel id="Premiere6.br">
+    <display-name>PREMIERE 6</display-name>
+  </channel>
+  <channel id="Premiere7.br">
+    <display-name>PREMIERE 7</display-name>
+  </channel>
+  <channel id="Hbo.br">
+    <display-name>HBO</display-name>
+  </channel>
+  <channel id="Hbo2.br">
+    <display-name>HBO 2</display-name>
+  </channel>
+  <channel id="Hboplus.br">
+    <display-name>HBO +</display-name>
+  </channel>
+  <channel id="Hbofamily.br">
+    <display-name>HBO FAMILY</display-name>
+  </channel>
+  <channel id="Hbosignature.br">
+    <display-name>HBO SIGNATURE</display-name>
+  </channel>
+  <channel id="Hbomundi.br">
+    <display-name>HBO MUNDI</display-name>
+  </channel>
+  <channel id="Hbopop.br">
+    <display-name>HBO POP</display-name>
+  </channel>
+  <channel id="Hboxtreme.br">
+    <display-name>HBO XTREME</display-name>
+  </channel>
+</tv>
