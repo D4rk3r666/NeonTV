@@ -17,7 +17,7 @@ http://serv99.xyz:8880/live/94878631/60517990/180658.m3u8
 http://orulaigo.com:80/live/985541655/B949b1962N/563032.m3u8
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN 6" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="ESPN",ESPN 6
 http://jpnews.asia:80/8687181348/7571642836/10054825
-#EXTINF:-1 tvg-id="Xsports.br" tvg-name="XSPORTS¹" tvg-logo="https://googleplusimages.com/XSPORTS.png" group-title="ESPORTES",XSPORTS¹
+#EXTINF:-1 tvg-id="Xsports.br" tvg-name="XSPORTS" tvg-logo="https://googleplusimages.com/XSPORTS.png" group-title="ESPORTES",XSPORTS
 http://serv99.xyz:8880/live/94878631/60517990/249643.m3u8
 #EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BANDSPORTS" tvg-logo="https://googleplusimages.com/BANDSPORTS.png" group-title="ESPORTES",BANDSPORTS
 http://serv99.xyz:8880/live/94878631/60517990/1931.m3u8
