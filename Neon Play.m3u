@@ -159,19 +159,19 @@ http://serv99.xyz:8880/live/94878631/60517990/10520.m3u8
 http://serv99.xyz:8880/live/94878631/60517990/24696.m3u8
 #EXTINF:-1 tvg-id="Filmarts.br" tvg-name="FILM&ARTS" tvg-logo="https://googleplusimages.com/FILM&ARTS.png" group-title="FILMES E SÉRIES",FILM&ARTS
 http://serv99.xyz:8880/live/94878631/60517990/40219.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="HALLO SERIES+" tvg-logo="https://googleplusimages.com/HALLOSERIES.png" group-title="HALLO CHANNELS",HALLO SERIES+
+#EXTINF:-1 tvg-id="2" tvg-name="HALLO SERIES" tvg-logo="https://googleplusimages.com/HALLOSERIES.png" group-title="HALLO CHANNELS",HALLO SERIES
 http://serv99.xyz:8880/live/94878631/60517990/245502.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="HALLO BRASIL" tvg-logo="https://googleplusimages.com/HALLOBRASIL.png" group-title="HALLO CHANNELS",HALLO BRASIL
 http://serv99.xyz:8880/live/94878631/60517990/245501.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="HALLO MUSIC+" tvg-logo="https://googleplusimages.com/HALLOMUSIC.png" group-title="HALLO CHANNELS",HALLO MUSIC+
+#EXTINF:-1 tvg-id="10" tvg-name="HALLO MUSIC" tvg-logo="https://googleplusimages.com/HALLOMUSIC.png" group-title="HALLO CHANNELS",HALLO MUSIC
 http://serv99.xyz:8880/live/94878631/60517990/245500.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="HALLO MOVIES+" tvg-logo="https://googleplusimages.com/HALLOMOVIES.png" group-title="HALLO CHANNELS,HALLO MOVIES+
+#EXTINF:-1 tvg-id="5" tvg-name="HALLO MOVIES" tvg-logo="https://googleplusimages.com/HALLOMOVIES.png" group-title="HALLO CHANNELS",HALLO MOVIES
 http://serv99.xyz:8880/live/94878631/60517990/245499.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="HALLO DOC+" tvg-logo="https://googleplusimages.com/HALLODOC.png" group-title="HALLO CHANNELS",HALLO DOC+
+#EXTINF:-1 tvg-id="4" tvg-name="HALLO DOC" tvg-logo="https://googleplusimages.com/HALLODOC.png" group-title="HALLO CHANNELS",HALLO DOC
 http://serv99.xyz:8880/live/94878631/60517990/245498.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="HALLO CLASSIC+" tvg-logo="https://googleplusimages.com/HALLOCLASSIC.png" group-title="HALLO CHANNELS",HALLO CLASSIC+
+#EXTINF:-1 tvg-id="1" tvg-name="HALLO CLASSIC" tvg-logo="https://googleplusimages.com/HALLOCLASSIC.png" group-title="HALLO CHANNELS",HALLO CLASSIC
 http://serv99.xyz:8880/live/94878631/60517990/245497.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="HALLO ANIME+" tvg-logo="https://googleplusimages.com/HALLOANIME.png" group-title="HALLO CHANNELS",HALLO ANIME+
+#EXTINF:-1 tvg-id="3" tvg-name="HALLO ANIME" tvg-logo="https://googleplusimages.com/HALLOANIME.png" group-title="HALLO CHANNELS",HALLO ANIME
 http://serv99.xyz:8880/live/94878631/60517990/245496.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS+" tvg-logo="https://googleplusimages.com/URBANKIDS.png" group-title="KIDS",URBAN KIDS+
 http://serv99.xyz:8880/live/94878631/60517990/73846.m3u8
