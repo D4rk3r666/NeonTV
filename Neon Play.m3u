@@ -251,6 +251,8 @@ http://jpnews.asia:80/8687181348/7571642836/10054168
 http://jpnews.asia:80/8687181348/7571642836/10054169
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV!" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/REDETV%21.png" group-title="CANAIS ABERTOS",REDETV!
 http://jpnews.asia:80/8687181348/7571642836/4898
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/tcm.png" group-title="FILMES E SERIES",TCM
+http://jpnews.asia:80/8687181348/7571642836/10027044
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TVCULTURA.png" group-title=" CANAIS ABERTOS",TV CULTURA
 http://jpnews.asia:80/8687181348/7571642836/10054885
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD H265*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/FUTURA.png" group-title=" CANAIS ABERTOS",FUTURA
