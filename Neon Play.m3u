@@ -59,29 +59,29 @@ http://serv99.xyz:8880/live/94878631/60517990/180647.m3u8
 http://serv99.xyz:8880/live/94878631/60517990/180646.m3u8
 #EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="https://googleplusimages.com/PREMIERE.png" group-title="PREMIERE",PREMIERE 7
 http://serv99.xyz:8880/live/94878631/60517990/180645.m3u8
-#EXTINF:-1 tvg-id="Ausente.br" tvg-name="RED BULL TV FHD+" tvg-logo="https://googleplusimages.com/REDBULLTV.png" group-title="ESPORTES",RED BULL TV FHD+
+#EXTINF:-1 tvg-id="Ausente.br" tvg-name="RED BULL TV+" tvg-logo="https://googleplusimages.com/REDBULLTV.png" group-title="ESPORTES",RED BULL TV+
 http://serv99.xyz:8880/live/94878631/60517990/73980.m3u8
 #EXTINF:-1 tvg-id="Golf.br" tvg-name="GOLF CHANNEL HD²" tvg-logo="https://i.imgur.com/SmwGekQ.png" group-title="ESPORTES",GOLF CHANNEL HD²
 http://serv99.xyz:8880/live/94878631/60517990/181208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL FHD³" tvg-logo="https://i.ibb.co/2Mf7dxb/TENNISCHANNEL.png" group-title="ESPORTES",TENNIS CHANNEL FHD³
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL³" tvg-logo="https://i.ibb.co/2Mf7dxb/TENNISCHANNEL.png" group-title="ESPORTES",TENNIS CHANNEL³
 http://serv99.xyz:8880/live/94878631/60517990/40249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSPORTS HD¹" tvg-logo="https://i.imgur.com/vujqfV3.jpeg" group-title="ESPORTES",DSPORTS HD¹
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS" tvg-logo="https://i.imgur.com/vujqfV3.jpeg" group-title="ESPORTES",DSPORTS
 http://serv99.xyz:8880/live/94878631/60517990/214012.m3u8
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISHTV" tvg-logo="https://googleplusimages.com/FISHTV.png" group-title="ESPORTES",FISHTV
 http://serv99.xyz:8880/live/94878631/60517990/50544.m3u8
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO FHD²" tvg-logo="https://googleplusimages.com/WOOHOO.png" group-title="ESPORTES",WOOHOO FHD²
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO²" tvg-logo="https://googleplusimages.com/WOOHOO.png" group-title="ESPORTES",WOOHOO²
 http://serv99.xyz:8880/live/94878631/60517990/181207.m3u8
 #EXTINF:-1 tvg-id="Off.br" tvg-name="CANAL OFF" tvg-logo="https://googleplusimages.com/CANALOFF.png" group-title="ESPORTES",CANAL OFF
 http://jpnews.asia:80/8687181348/7571642836/10054200
-#EXTINF:-1 tvg-id="Paramountplus1.br" tvg-name="PARAMOUNT+ 1 HD+" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="PARAMOUNT+",PARAMOUNT+ 1 HD+
+#EXTINF:-1 tvg-id="Paramountplus1.br" tvg-name="PARAMOUNT+ 1" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="PARAMOUNT+",PARAMOUNT+ 1
 http://serv99.xyz:8880/live/94878631/60517990/219760.m3u8
-#EXTINF:-1 tvg-id="Paramountplus2.br" tvg-name="PARAMOUNT+ 2 HD+" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="PARAMOUNT+",PARAMOUNT+ 2 HD+
+#EXTINF:-1 tvg-id="Paramountplus2.br" tvg-name="PARAMOUNT+ 2" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="PARAMOUNT+",PARAMOUNT+ 2
 http://serv99.xyz:8880/live/94878631/60517990/219761.m3u8
-#EXTINF:-1 tvg-id="Paramountplus3.br" tvg-name="PARAMOUNT+ 3 HD+" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="PARAMOUNT+",PARAMOUNT+ 3 HD+
+#EXTINF:-1 tvg-id="Paramountplus3.br" tvg-name="PARAMOUNT+ 3" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="PARAMOUNT+",PARAMOUNT+ 3
 http://serv99.xyz:8880/live/94878631/60517990/219762.m3u8
-#EXTINF:-1 tvg-id="Paramountplus4.br" tvg-name="PARAMOUNT+ 4 HD+" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="PARAMOUNT+",PARAMOUNT+ 4 HD+
+#EXTINF:-1 tvg-id="Paramountplus4.br" tvg-name="PARAMOUNT+ 4" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="PARAMOUNT+",PARAMOUNT+ 4
 http://serv99.xyz:8880/live/94878631/60517990/219763.m3u8
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET" tvg-logo="http://st1.p2elite.com:8080/icon/11250-b-1758815283268.png" group-title="SPORTYNET",SPORTYNET
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET" tvg-logo="http://googleplusimages.com/SPORTYNET.png" group-title="SPORTYNET",SPORTYNET
 http://jpnews.asia:80/8687181348/7571642836/10150638
 #EXTINF:-1 tvg-id="Sportynetplus1.br" tvg-name="SPORTYNET+ 1" tvg-logo="http://googleplusimages.com/SPORTYNET.png" group-title="SPORTYNET",SPORTYNET+ 1
 http://serv99.xyz:8880/live/94878631/60517990/219765.m3u8
@@ -117,11 +117,11 @@ http://serv99.xyz:8880/live/94878631/60517990/1894.m3u8
 http://serv99.xyz:8880/live/94878631/60517990/1896.m3u8
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="https://googleplusimages.com/TCCULT.png" group-title="TELECINE PLAY",TELECINE CULT
 http://serv99.xyz:8880/live/94878631/60517990/7493.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://googleplusimages.com/CANALBRASIL.png" group-title="4K E",CANAL BRASIL
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://googleplusimages.com/CANALBRASIL.png" group-title="FILMES E SÉRIES",CANAL BRASIL
 http://jpnews.asia:80/8687181348/7571642836/10054268
-#EXTINF:-1 tvg-id="Cinebrasiltv.br" tvg-name="CINE BRASIL TV HD+" tvg-logo="https://googleplusimages.com/CINEBRASILTV.png" group-title="FILMES E SÉRIES",CINEBRASILTV HD+
+#EXTINF:-1 tvg-id="Cinebrasiltv.br" tvg-name="CINE BRASIL TV" tvg-logo="https://googleplusimages.com/CINEBRASILTV.png" group-title="FILMES E SÉRIES",CINEBRASILTV
 http://serv99.xyz:8880/live/94878631/60517990/271049.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SONYCHANNEL.png" group-title="4K E",CANAL SONY
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY CHANNEL" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SONYCHANNEL.png" group-title="FILMES E SÉRIES",SONY CHANNEL
 http://jpnews.asia:80/8687181348/7571642836/10054266
 #EXTINF:-1 tvg-id="Sonymovies.br" tvg-name="SONY MOVIES" tvg-logo="https://googleplusimages.com/SONYMOVIES.png" group-title="FILMES E SÉRIES",SONY MOVIES
 http://serv99.xyz:8880/live/94878631/60517990/150518.m3u8
@@ -135,13 +135,13 @@ http://serv99.xyz:8880/live/94878631/60517990/1898.m3u8
 http://serv99.xyz:8880/live/94878631/60517990/10530.m3u8
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="https://googleplusimages.com/CINEMAX.png" group-title="FILMES E SÉRIES",CINEMAX
 http://serv99.xyz:8880/live/94878631/60517990/7559.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MEGAPIX.png" group-title="4K E",MEGAPIX
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MEGAPIX.png" group-title="FILMES E SÉRIES",MEGAPIX
 http://jpnews.asia:80/8687181348/7571642836/10054210
 #EXTINF:-1 tvg-id="Warner.br" tvg-name="WARNER CHANNEL" tvg-logo="https://googleplusimages.com/WARNERCHANNEL.png" group-title="FILMES E SÉRIES",WARNER CHANNEL
 http://serv99.xyz:8880/live/94878631/60517990/1889.m3u8
 #EXTINF:-1 tvg-id="Universaltv.br" tvg-name="UNIVERSAL TV" tvg-logo="https://googleplusimages.com/UNIVERSALTV.png" group-title="FILMES E SÉRIES",UNIVERSAL TV
 http://serv99.xyz:8880/live/94878631/60517990/1891.m3u8
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD²" tvg-logo="https://googleplusimages.com/AXN.png" group-title="FILMES E SÉRIES",AXN FHD²
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN²" tvg-logo="https://googleplusimages.com/AXN.png" group-title="FILMES E SÉRIES",AXN²
 http://serv99.xyz:8880/live/94878631/60517990/181229.m3u8
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL" tvg-logo="https://googleplusimages.com/COMEDYCENTRAL.png" group-title="FILMES E SÉRIES",COMEDY CENTRAL
 http://serv99.xyz:8880/live/94878631/60517990/25192.m3u8
@@ -157,35 +157,35 @@ http://serv99.xyz:8880/live/94878631/60517990/24690.m3u8
 http://serv99.xyz:8880/live/94878631/60517990/10520.m3u8
 #EXTINF:-1 tvg-id="Paramount.br" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://googleplusimages.com/PARAMOUNTNETWORK.png" group-title="FILMES E SÉRIES",PARAMOUNT NETWORK
 http://serv99.xyz:8880/live/94878631/60517990/24696.m3u8
-#EXTINF:-1 tvg-id="Filmarts.br" tvg-name="FILM&ARTS FHD¹" tvg-logo="https://googleplusimages.com/FILM&ARTS.png" group-title="FILMES E SÉRIES",FILM&ARTS FHD¹
+#EXTINF:-1 tvg-id="Filmarts.br" tvg-name="FILM&ARTS" tvg-logo="https://googleplusimages.com/FILM&ARTS.png" group-title="FILMES E SÉRIES",FILM&ARTS
 http://serv99.xyz:8880/live/94878631/60517990/40219.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="HALLO SERIES HD+" tvg-logo="https://googleplusimages.com/HALLOSERIES.png" group-title="HALLO CHANNELS",HALLO SERIES HD+
+#EXTINF:-1 tvg-id="2" tvg-name="HALLO SERIES" tvg-logo="https://googleplusimages.com/HALLOSERIES.png" group-title="HALLO CHANNELS",HALLO SERIES
 http://serv99.xyz:8880/live/94878631/60517990/245502.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="HALLO BRASIL HD¹" tvg-logo="https://googleplusimages.com/HALLOBRASIL.png" group-title="HALLO CHANNELS",HALLO BRASIL HD¹
+#EXTINF:-1 tvg-id="9" tvg-name="HALLO BRASIL" tvg-logo="https://googleplusimages.com/HALLOBRASIL.png" group-title="HALLO CHANNELS",HALLO BRASIL
 http://serv99.xyz:8880/live/94878631/60517990/245501.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="HALLO MUSIC HD+" tvg-logo="https://googleplusimages.com/HALLOMUSIC.png" group-title="HALLO CHANNELS",HALLO MUSIC HD+
+#EXTINF:-1 tvg-id="10" tvg-name="HALLO MUSIC" tvg-logo="https://googleplusimages.com/HALLOMUSIC.png" group-title="HALLO CHANNELS",HALLO MUSIC
 http://serv99.xyz:8880/live/94878631/60517990/245500.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="HALLO MOVIES HD+" tvg-logo="https://googleplusimages.com/HALLOMOVIES.png" group-title="HALLO CHANNELS,HALLO MOVIES HD+
+#EXTINF:-1 tvg-id="5" tvg-name="HALLO MOVIES" tvg-logo="https://googleplusimages.com/HALLOMOVIES.png" group-title="HALLO CHANNELS",HALLO MOVIES
 http://serv99.xyz:8880/live/94878631/60517990/245499.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="HALLO DOC HD+" tvg-logo="https://googleplusimages.com/HALLODOC.png" group-title="HALLO CHANNELS",HALLO DOC HD+
+#EXTINF:-1 tvg-id="4" tvg-name="HALLO DOC" tvg-logo="https://googleplusimages.com/HALLODOC.png" group-title="HALLO CHANNELS",HALLO DOC
 http://serv99.xyz:8880/live/94878631/60517990/245498.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="HALLO CLASSIC HD+" tvg-logo="https://googleplusimages.com/HALLOCLASSIC.png" group-title="HALLO CHANNELS",HALLO CLASSIC HD+
+#EXTINF:-1 tvg-id="1" tvg-name="HALLO CLASSIC" tvg-logo="https://googleplusimages.com/HALLOCLASSIC.png" group-title="HALLO CHANNELS",HALLO CLASSIC
 http://serv99.xyz:8880/live/94878631/60517990/245497.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="HALLO ANIME HD+" tvg-logo="https://googleplusimages.com/HALLOANIME.png" group-title="HALLO CHANNELS",HALLO ANIME HD+
+#EXTINF:-1 tvg-id="3" tvg-name="HALLO ANIME" tvg-logo="https://googleplusimages.com/HALLOANIME.png" group-title="HALLO CHANNELS",HALLO ANIME
 http://serv99.xyz:8880/live/94878631/60517990/245496.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS HD+" tvg-logo="https://googleplusimages.com/URBANKIDS.png" group-title="KIDS",URBAN KIDS HD+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN KIDS" tvg-logo="https://googleplusimages.com/URBANKIDS.png" group-title="KIDS",URBAN KIDS
 http://serv99.xyz:8880/live/94878631/60517990/73846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES HD+" tvg-logo="https://googleplusimages.com/URBANMOVIES.png" group-title="URBAN CHANNELS",URBAN MOVIES HD+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN MOVIES" tvg-logo="https://googleplusimages.com/URBANMOVIES.png" group-title="URBAN CHANNELS",URBAN MOVIES
 http://serv99.xyz:8880/live/94878631/60517990/73849.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URBAN SERIES HD+" tvg-logo="https://googleplusimages.com/URBANSERIES.png" group-title="URBAN CHANNELS",URBAN SERIES HD+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN SERIES" tvg-logo="https://googleplusimages.com/URBANSERIES.png" group-title="URBAN CHANNELS",URBAN SERIES
 http://serv99.xyz:8880/live/94878631/60517990/73850.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URBAN RETRO HD+" tvg-logo="https://googleplusimages.com/URBANRETRO.png" group-title="URBAN CHANNELS",URBAN RETRO HD+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN RETRO" tvg-logo="https://googleplusimages.com/URBANRETRO.png" group-title="URBAN CHANNELS",URBAN RETRO
 http://serv99.xyz:8880/live/94878631/60517990/270484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URBAN DRIVE HD+" tvg-logo="https://googleplusimages.com/URBANDRIVE.png" group-title="URBAN CHANNELS",URBAN DRIVE HD+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN DRIVE" tvg-logo="https://googleplusimages.com/URBANDRIVE.png" group-title="URBAN CHANNELS",URBAN DRIVE
 http://serv99.xyz:8880/live/94878631/60517990/270505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URBAN TRAVEL HD+" tvg-logo="https://googleplusimages.com/URBANTRAVEL.png" group-title="URBAN CHANNELS",URBAN TRAVEL HD+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN TRAVEL" tvg-logo="https://googleplusimages.com/URBANTRAVEL.png" group-title="URBAN CHANNELS",URBAN TRAVEL
 http://serv99.xyz:8880/live/94878631/60517990/73855.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS HD+" tvg-logo="https://googleplusimages.com/URBANDOCS.png" group-title="URBAN CHANNELS",URBAN DOCS HD+
+#EXTINF:-1 tvg-id="" tvg-name="URBAN DOCS" tvg-logo="https://googleplusimages.com/URBANDOCS.png" group-title="URBAN CHANNELS",URBAN DOCS
 http://serv99.xyz:8880/live/94878631/60517990/73857.m3u8
 #EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="https://googleplusimages.com/DISCOVERYKIDS.png" group-title="KIDS",DISCOVERY KIDS
 http://serv99.xyz:8880/live/94878631/60517990/7556.m3u8
