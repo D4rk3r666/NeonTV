@@ -257,5 +257,5 @@ http://jpnews.asia:80/8687181348/7571642836/10027044
 http://jpnews.asia:80/8687181348/7571642836/10054885
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD H265*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/FUTURA.png" group-title=" CANAIS ABERTOS",FUTURA
 http://jpnews.asia:80/8687181348/7571642836/10054801
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="https://googleplusimages.com/PREMIERE.png" group-title="TESTE CLARO",PREMIERE TESTE CLARO
-http://getcdn.nowonline.com.br/Content/Channel/SPOPRHD/dss4/manifest.mpd
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7" tvg-logo="https://googleplusimages.com/PREMIERE.png" group-title="TESTE CLARO",PREMIERE TESTE CLARO 2
+http://getcdn.nowonline.com.br/Content/Channel/SPOPRHD/dss4/stream_06/Segment-4645700689049863.m4v
