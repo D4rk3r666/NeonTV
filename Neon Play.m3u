@@ -7,11 +7,11 @@ http://serv99.xyz:8880/live/94878631/60517990/7496.m3u8
 http://serv99.xyz:8880/live/94878631/60517990/7733.m3u8
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="ESPN",ESPN
 http://serv99.xyz:8880/live/94878631/60517990/1923.m3u8
-#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN2" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="ESPN",ESPN2
+#EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="ESPN",ESPN 2
 http://serv99.xyz:8880/live/94878631/60517990/25203.m3u8
-#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="ESPN",ESPN3
+#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN 3" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="ESPN",ESPN 3
 http://serv99.xyz:8880/live/94878631/60517990/1922.m3u8
-#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="ESPN",ESPN4
+#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN 4" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="ESPN",ESPN 4
 http://serv99.xyz:8880/live/94878631/60517990/180658.m3u8
 #EXTINF:-1 tvg-id="Espn5.br" tvg-name="ESPN 5 " tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="ESPN",ESPN 5 
 http://orulaigo.com:80/live/985541655/B949b1962N/563032.m3u8
@@ -81,7 +81,7 @@ http://serv99.xyz:8880/live/94878631/60517990/219761.m3u8
 http://serv99.xyz:8880/live/94878631/60517990/219762.m3u8
 #EXTINF:-1 tvg-id="Paramountplus4.br" tvg-name="PARAMOUNT+ 4+" tvg-logo="https://googleplusimages.com/PARAMOUNTPLUS.png" group-title="PARAMOUNT+",PARAMOUNT+ 4+
 http://serv99.xyz:8880/live/94878631/60517990/219763.m3u8
-#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET" tvg-logo="http://st1.p2elite.com:8080/icon/11250-b-1758815283268.png" group-title="SPORTYNET",SPORTYNET
+#EXTINF:-1 tvg-id="NossoFutebol.br" tvg-name="SPORTYNET" tvg-logo="http://googleplusimages.com/SPORTYNET.png" group-title="SPORTYNET",SPORTYNET
 http://jpnews.asia:80/8687181348/7571642836/10150638
 #EXTINF:-1 tvg-id="Sportynetplus1.br" tvg-name="SPORTYNET+ 1" tvg-logo="http://googleplusimages.com/SPORTYNET.png" group-title="SPORTYNET",SPORTYNET+ 1
 http://serv99.xyz:8880/live/94878631/60517990/219765.m3u8
@@ -117,11 +117,11 @@ http://serv99.xyz:8880/live/94878631/60517990/1894.m3u8
 http://serv99.xyz:8880/live/94878631/60517990/1896.m3u8
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="https://googleplusimages.com/TCCULT.png" group-title="TELECINE PLAY",TELECINE CULT
 http://serv99.xyz:8880/live/94878631/60517990/7493.m3u8
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://googleplusimages.com/CANALBRASIL.png" group-title="4K E",CANAL BRASIL
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL" tvg-logo="https://googleplusimages.com/CANALBRASIL.png" group-title="FILMES E SÉRIES",CANAL BRASIL
 http://jpnews.asia:80/8687181348/7571642836/10054268
 #EXTINF:-1 tvg-id="Cinebrasiltv.br" tvg-name="CINE BRASIL TV+" tvg-logo="https://googleplusimages.com/CINEBRASILTV.png" group-title="FILMES E SÉRIES",CINEBRASILTV+
 http://serv99.xyz:8880/live/94878631/60517990/271049.m3u8
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SONYCHANNEL.png" group-title="4K E",CANAL SONY
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/SONYCHANNEL.png" group-title="FILMES E SÉRIES",CANAL SONY
 http://jpnews.asia:80/8687181348/7571642836/10054266
 #EXTINF:-1 tvg-id="Sonymovies.br" tvg-name="SONY MOVIES" tvg-logo="https://googleplusimages.com/SONYMOVIES.png" group-title="FILMES E SÉRIES",SONY MOVIES
 http://serv99.xyz:8880/live/94878631/60517990/150518.m3u8
@@ -135,7 +135,7 @@ http://serv99.xyz:8880/live/94878631/60517990/1898.m3u8
 http://serv99.xyz:8880/live/94878631/60517990/10530.m3u8
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="https://googleplusimages.com/CINEMAX.png" group-title="FILMES E SÉRIES",CINEMAX
 http://serv99.xyz:8880/live/94878631/60517990/7559.m3u8
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MEGAPIX.png" group-title="4K E",MEGAPIX
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/MEGAPIX.png" group-title="FILMES E SÉRIES",MEGAPIX
 http://jpnews.asia:80/8687181348/7571642836/10054210
 #EXTINF:-1 tvg-id="Warner.br" tvg-name="WARNER CHANNEL" tvg-logo="https://googleplusimages.com/WARNERCHANNEL.png" group-title="FILMES E SÉRIES",WARNER CHANNEL
 http://serv99.xyz:8880/live/94878631/60517990/1889.m3u8
@@ -151,7 +151,7 @@ http://serv99.xyz:8880/live/94878631/60517990/23367.m3u8
 http://serv99.xyz:8880/live/94878631/60517990/10528.m3u8
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME" tvg-logo="https://googleplusimages.com/LIFETIME.png" group-title="FILMES E SÉRIES",LIFETIME
 http://serv99.xyz:8880/live/94878631/60517990/10524.m3u8
-#EXTINF:-1 tvg-id="Usa.br" tvg-name="USA NETWORK" tvg-logo="https://googleplusimages.com/USANETWORK.png" group-title="FILMES E SÉRIES",USA NETWORK
+#EXTINF:-1 tvg-id="Usa.br" tvg-name="USA NETWORK" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/USA.png" group-title="FILMES E SÉRIES",USA NETWORK
 http://serv99.xyz:8880/live/94878631/60517990/24690.m3u8
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://googleplusimages.com/STUDIOUNIVERSAL.png" group-title="FILMES E SÉRIES",STUDIO UNIVERSAL
 http://serv99.xyz:8880/live/94878631/60517990/10520.m3u8
@@ -205,7 +205,7 @@ http://serv99.xyz:8880/live/94878631/60517990/1926.m3u8
 http://serv99.xyz:8880/live/94878631/60517990/1933.m3u8
 #EXTINF:-1 tvg-id="Id.br" tvg-name="INVESTIGAÇÃO DISCOVERY" tvg-logo="https://googleplusimages.com/ID.png" group-title="DISCOVERY CHANNELS",INVESTIGAÇÃO DISCOVERY
 http://serv99.xyz:8880/live/94878631/60517990/181215.m3u8
-#EXTINF:-1 tvg-id="History.br" tvg-name="HISTORY" tvg-logo="https://googleplusimages.com/HISTORY.png" group-title="VAROEDADES",HISTORY
+#EXTINF:-1 tvg-id="History.br" tvg-name="HISTORY" tvg-logo="https://googleplusimages.com/HISTORY.png" group-title="VARIEDADES",HISTORY
 http://serv99.xyz:8880/live/94878631/60517990/61582.m3u8
 #EXTINF:-1 tvg-id="History2.br" tvg-name="HISTORY 2" tvg-logo="https://i.imgur.com/JOmLdYI.png" group-title="VARIEDADES",HISTORY 2
 http://serv99.xyz:8880/live/94878631/60517990/181217.m3u8
@@ -239,9 +239,19 @@ http://serv99.xyz:8880/live/94878631/60517990/181260.m3u8
 http://serv99.xyz:8880/live/94878631/60517990/243859.m3u8
 #EXTINF:-1 tvg-id="Tvgazetasp.br" tvg-name="TV GAZETA" tvg-logo="https://googleplusimages.com/TVGAZETA.png" group-title="CANAIS ABERTOS",TV GAZETA
 http://serv99.xyz:8880/live/94878631/60517990/570.m3u8
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGROMAIS" tvg-logo="https://googleplusimages.com/AGROMAIS.png" group-title="ABERTOS",AGROMAIS
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AGROMAIS" tvg-logo="https://googleplusimages.com/AGROMAIS.png" group-title="VARIEDADES",AGROMAIS
 http://serv99.xyz:8880/live/94878631/60517990/61558.m3u8
 #EXTINF:-1 tvg-id="Bandrs.br" tvg-name="BAND" tvg-logo="https://googleplusimages.com/BAND.png" group-title="CANAIS ABERTOS",BAND
 http://serv99.xyz:8880/live/94878631/60517990/112760.m3u8
 #EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RECORD" tvg-logo="https://googleplusimages.com/RECORD.png" group-title="CANAIS ABERTOS",RECORD
 http://serv99.xyz:8880/live/94878631/60517990/179979.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TNT.png" group-title="FILMES E SÉRIES",TNT
+http://jpnews.asia:80/8687181348/7571642836/10054168
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TLC.png" group-title="FILMES E SÉRIES"",TLC
+http://jpnews.asia:80/8687181348/7571642836/10054169
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV!" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/REDETV%21.png" group-title="CANAIS ABERTOS",REDETV!
+http://jpnews.asia:80/8687181348/7571642836/4898
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/TVCULTURA.png" group-title=" CANAIS ABERTOS",TV CULTURA
+http://jpnews.asia:80/8687181348/7571642836/10054885
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA FHD H265*" tvg-logo="https://stbxlogos.nyc3.digitaloceanspaces.com/new/FUTURA.png" group-title=" CANAIS ABERTOS",FUTURA
+http://jpnews.asia:80/8687181348/7571642836/10054801
